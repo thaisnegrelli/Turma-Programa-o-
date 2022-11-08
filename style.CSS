@@ -1,0 +1,74 @@
+body{
+    background-color: beige
+}
+header{
+    background-color: darksalmon;
+   
+    padding: 20px;
+    padding-top: ;
+    padding-bottom: ;
+    padding-left: 80px;
+    padding-right: ;
+   
+    margin: ;
+    margin-top: ;
+    margin-bottom: 30px;
+    margin-left: ;
+    margin-right: ;
+    }
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: left;
+    margin: 20px;
+    
+}
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: blue;
+    margin: 30px;
+    padding-left: 20px;
+}
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin: 20px;
+}
+.titulobeneficios{
+    padding-left: 20px;
+    font-size: 20;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+nav ul{
+    text-align: right;
+    font-size: 30px;
+    display: inline;
+    vertical-align: text-top;
+}
+nav li{
+    display: inline;
+    margin-left: 200px;
+}
+.imgheader {
+    display: inline;
+    vertical-align: text-top;
+}
+nav{
+    display: inline;
+}
